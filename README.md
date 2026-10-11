@@ -4,8 +4,6 @@
 
 [![Homepage](https://img.shields.io/badge/-Homepage-222?style=flat&logo=githubpages&logoColor=white)](https://meunaught.github.io/)
 [![CV](https://img.shields.io/badge/-CV-555?style=flat&logo=readthedocs&logoColor=white)](https://meunaught.github.io/assets/files/curriculum_vitae.pdf)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meunaught/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:4mahadi@gmail.com)
 
 #### About me
 
