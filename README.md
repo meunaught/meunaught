@@ -1,11 +1,5 @@
 ### Hi, I'm Mahadi
 
-#### About me
+[![CV](https://img.shields.io/badge/CV-PDF-B31B1B?style=flat)](https://meunaught.github.io/assets/files/curriculum_vitae.pdf)
 
-- Research intern at [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html), working with [Prof. Wenxi Wang](https://wenxiwang.github.io/).
-- Prospective CS Ph.D. student, applying for Fall 2027 ([CV](https://meunaught.github.io/assets/files/curriculum_vitae.pdf)).
-- Former competitive programmer and math olympiad kid, still chasing elegant proofs.
-
-#### Currently working on
-
-- Formally verifying Rust programs with [Verus](https://github.com/verus-lang/verus), one `ensures` clause at a time.
+More about me on my [homepage](https://meunaught.github.io/).
