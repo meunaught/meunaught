@@ -1,6 +1,4 @@
-### Hi there
-
-### This is Mahadi!
+### Hi, I'm Mahadi
 
 #### About me
 
